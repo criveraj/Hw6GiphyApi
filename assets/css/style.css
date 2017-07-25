@@ -1,0 +1,15 @@
+.jumbotron {
+	background-color: blue;
+}
+
+.jumbotron
+{   
+background-size: cover;
+}
+.jumbotron h1 {
+	color:white;
+}
+button
+    {
+      margin: 10px;
+    }
